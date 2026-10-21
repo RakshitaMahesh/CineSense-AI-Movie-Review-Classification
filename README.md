@@ -1,5 +1,9 @@
 # 🎬 CineSense AI — Movie Review Classification Using LSTM
 
+🌐 **Live Demo:** [Try CineSense AI](https://cinesense-ai-movie-review-classification-w9jalgsw9vgb6pdnc6cyc.streamlit.app/)
+
+> Analyze any movie review and see the LSTM model predict its sentiment as positive or negative.
+
 ## ✨ Features
 
 - Analyze custom movie reviews.
@@ -106,10 +110,6 @@ To demonstrate how deep learning and natural language processing can be used to 
 ![CineSense AI Technologies](06-technology.png)
 
 ---
-
-## 🚀 Live Demo
-
-[**Launch CineSense AI**](https://cinesense-ai-movie-review-classification-w9jalgsw9vgb6pdnc6cyc.streamlit.app/)
 
 ## 👩‍💻 Author
 
