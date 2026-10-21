@@ -1,6 +1,8 @@
 # 🎬 CineSense AI — Movie Review Classification Using LSTM
 
-CineSense AI is a deep learning web application that analyzes movie reviews and predicts whether the sentiment is **positive or negative** using a trained Long Short-Term Memory (LSTM) neural network.
+🚀 **[Launch Live Demo](https://cinesense-ai-movie-review-classification-w9jalgws9vgb6pdnc6cyc.streamlit.app/)**
+
+Try the live application to analyze movie reviews and predict positive or negative sentiment.
 
 ## ✨ Features
 
